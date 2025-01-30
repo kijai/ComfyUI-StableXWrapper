@@ -1,4 +1,4 @@
-#ComfyUI wrapper for StableX models
+# ComfyUI wrapper for StableX models
 
 https://github.com/Stable-X/StableNormal
 
