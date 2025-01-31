@@ -1,0 +1,15 @@
+[project]
+name = "stablexwrapper"
+description = "ComfyUI wrapper for [a/StableX normal](https://github.com/Stable-X/StableNormal)/[a/delight](https://github.com/Stable-X/StableDelight) models"
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["accelerate", "diffusers"]
+
+[project.urls]
+Repository = "https://github.com/kijai/ComfyUI-StableXWrapper"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "kijai"
+DisplayName = "ComfyUI-StableXWrapper"
+Icon = ""
