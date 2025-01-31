@@ -16,7 +16,6 @@ from typing import Any, Dict, List, Optional, Tuple, Union
 
 import torch
 
-
 from diffusers.models.controlnet import ControlNetOutput
 from diffusers.models import ControlNetModel
 
